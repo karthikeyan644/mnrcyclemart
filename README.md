@@ -36,10 +36,7 @@ MNR Cycle Mart is designed to promote high-quality bicycles for daily commuting,
 
 🚀 Live Demo
 
-(You can add your GitHub Pages link here)
-
-https://yourusername.github.io/mnrcyclemart/
-
+(https://karthikeyan644.github.io/mnrcyclemart/index.html)
 
 📞 Contact
 
@@ -48,6 +45,3 @@ If you have any suggestions or feedback, feel free to connect with me.
 Developer: D Karthikeyan
 
 
-🚀 GitHub Pages deployment steps
-
-Tell me which one you want 👍
